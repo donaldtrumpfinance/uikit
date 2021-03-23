@@ -24,9 +24,9 @@ export const lightColors: Colors = {
   input: "#141836",
   tertiary: "#f5f5ff",
   text: "#ffffff",
-  textDisabled: "#333",
-  textSubtle: "#fff",
-  borderColor: "#155fd6",
+  textDisabled: "#ffffff",
+  textSubtle: "#c20400",
+  borderColor: "#141836",
   card: "#141836",
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
