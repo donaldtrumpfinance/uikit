@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/DonaldTrumpFinance",
+        href: "https://t.me/trumpfinance",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -171,7 +171,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/DonaldTrumpFinance",
+    href: "https://twitter.com/trumpFinance",
   },
 ];
 
