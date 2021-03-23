@@ -1991,11 +1991,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.tropico.finance",
+                href: "https://exchange.donaldtrump.finance",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.tropico.finance/#/pool",
+                href: "https://exchange.donaldtrump.finance/#/pool",
             },
         ],
     },
@@ -2080,15 +2080,15 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/TropicoFinance",
+                href: "https://github.com/DonaldTrumpFinance",
             },
             {
                 label: "Docs",
-                href: "https://tropicofinance.medium.com",
+                href: "https://DonaldTrumpFinance.medium.com",
             },
             {
                 label: "Blog",
-                href: "https://tropicofinance.medium.com/",
+                href: "https://DonaldTrumpFinance.medium.com/",
             },
         ],
     },
@@ -2100,7 +2100,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/TropicoFinance",
+                href: "https://t.me/DonaldTrumpFinance",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2151,7 +2151,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceTropico",
+        href: "https://twitter.com/DonaldTrumpFinance",
     },
 ];
 var MENU_HEIGHT = 64;
@@ -2742,7 +2742,7 @@ var baseColors = {
 var brandColors = {
     binance: "#e2394f",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#3a406b", backgroundDisabled: "#d46c00", contrast: "#191326", invertedContrast: "#00000", input: "#141836", tertiary: "#c20400", text: "#ffffff", textDisabled: "#d46c00", textSubtle: "#c20400", borderColor: "#141836", card: "#141836", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#3a406b", backgroundDisabled: "#d46c00", contrast: "#191326", invertedContrast: "#00000", input: "#141836", tertiary: "#f5f5ff", text: "#ffffff", textDisabled: "#333", textSubtle: "#c20400", borderColor: "#141836", card: "#141836", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#ffb23d", background: "#343135", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", primaryDark: "#0098A1", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#524B63", card: "#27262c", gradients: {

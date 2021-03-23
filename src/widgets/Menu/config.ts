@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.tropico.finance",
+        href: "https://exchange.donaldtrump.finance",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.tropico.finance/#/pool",
+        href: "https://exchange.donaldtrump.finance/#/pool",
       },
     ],
   },
@@ -99,15 +99,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/TropicoFinance",
+        href: "https://github.com/DonaldTrumpFinance",
       },
       {
         label: "Docs",
-        href: "https://tropicofinance.medium.com",
+        href: "https://DonaldTrumpFinance.medium.com",
       },
       {
         label: "Blog",
-        href: "https://tropicofinance.medium.com/",
+        href: "https://DonaldTrumpFinance.medium.com/",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/TropicoFinance",
+        href: "https://t.me/DonaldTrumpFinance",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -171,7 +171,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceTropico",
+    href: "https://twitter.com/DonaldTrumpFinance",
   },
 ];
 
